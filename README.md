@@ -1,23 +1,41 @@
-<p align="center">
-  <h1 align="center">PMWP</h1>
-  <p align="center"><strong>A Benchmark for Math Word Problem Solving in Persian</strong></p>
-  <hr>
-  <p align="center">
-    <a href="[https://eacl.org/](https://www.silkroadnlp.org/)" target="_blank"><strong>SilkRoadNLP @ EACL 2026</strong></a>
-  </p>
-  <p align="center">
-    <a href="LINK_TO_PDF">📄 Paper (PDF)</a>
-  </p>
-</p>
+<div align="center">
+
+# PMWP  
+## A Benchmark for Math Word Problem Solving in Persian
+
+[![Workshop](https://img.shields.io/badge/Workshop-SilkRoadNLP%20%40%20EACL%202026-blue)](https://www.silkroadnlp.org/)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](LINK_TO_PDF)
+[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](LINK_TO_HF)
+[![License](https://img.shields.io/badge/License-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
+
+</div>
 
 ---
+
+## Overview
 
 Mathematical reasoning captures fundamental aspects of human cognitive ability. Although recent advances in large language models (LLMs) have led to substantial improvements in automated mathematical problem solving, most existing benchmarks remain focused on English. As a result, robust mathematical reasoning remains a challenging and insufficiently explored capability for languages such as Persian.
 
-To address this gap, we introduce **PMWP**, the first dataset of 15K elementary-level Persian math word problems that supports both supervised training and evaluation of reasoning models. By expanding mathematical reasoning resources beyond English, PMWP contributes to the development of multilingual AI systems with stronger reasoning capabilities.
+To address this gap, we introduce **PMWP**, the first large-scale dataset of **15,000 elementary-level Persian math word problems**, supporting both supervised training and systematic evaluation of reasoning models. By expanding mathematical reasoning resources beyond English, PMWP contributes to the development of multilingual AI systems with stronger and more reliable reasoning capabilities.
 
 ---
 
+## Authors
+
+**Marzieh Abdolmaleki**,  
+**Mehrnoush Shamsfard†**,  
+**Veronique Hoste**,  
+**Els Lefever**
+
+LT3 — Ghent University, Belgium  
+† NLP Lab — Shahid Beheshti University, Iran  
+
+📧 `{marzieh.maleki, veronique.hoste, els.lefever}@ugent.be`  
+📧 `m-shams@sbu.ac.ir`
+
+---
+
+## Citation
 
 If you use PMWP in your research, please cite:
 
@@ -30,6 +48,5 @@ If you use PMWP in your research, please cite:
                and Lefever, Els},
   booktitle = {Proceedings of the SilkRoadNLP Workshop at EACL 2026},
   year      = {2026},
-  address   = {TBD},
   publisher = {Association for Computational Linguistics}
 }
