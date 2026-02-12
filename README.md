@@ -20,21 +20,6 @@ To address this gap, we introduce **PMWP**, the first large-scale dataset of **1
 
 ---
 
-## Authors
-
-**Marzieh Abdolmaleki**,  
-**Mehrnoush Shamsfard†**,  
-**Veronique Hoste**,  
-**Els Lefever**
-
-LT3 — Ghent University, Belgium  
-† NLP Lab — Shahid Beheshti University, Iran  
-
-📧 `{marzieh.maleki, veronique.hoste, els.lefever}@ugent.be`  
-📧 `m-shams@sbu.ac.ir`
-
----
-
 ## Citation
 
 If you use PMWP in your research, please cite:
