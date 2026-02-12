@@ -3,7 +3,7 @@
   <p align="center"><strong>A Benchmark for Math Word Problem Solving in Persian</strong></p>
   <hr>
   <p align="center">
-    <a href="https://eacl.org/" target="_blank"><strong>SilkRoadNLP @ EACL 2026</strong></a>
+    <a href="[https://eacl.org/](https://www.silkroadnlp.org/)" target="_blank"><strong>SilkRoadNLP @ EACL 2026</strong></a>
   </p>
   <p align="center">
     <a href="LINK_TO_PDF">📄 Paper (PDF)</a>
