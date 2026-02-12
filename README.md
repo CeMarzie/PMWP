@@ -14,9 +14,9 @@
 
 ## Overview
 
-Mathematical reasoning captures fundamental aspects of human cognitive ability. Although recent advances in large language models (LLMs) have led to substantial improvements in automated mathematical problem solving, most existing benchmarks remain focused on English. As a result, robust mathematical reasoning remains a challenging and insufficiently explored capability for languages such as Persian.
+Mathematical reasoning captures fundamental aspects of human cognitive ability. Although recent advances in LLMs have led to substantial improvements in automated mathematical problem solving, most existing benchmarks remain focused on English. As a result, robust mathematical reasoning remains a challenging and insufficiently explored capability for underrepresented languages including Persian. 
 
-To address this gap, we introduce **PMWP**, the first large-scale dataset of **15,000 elementary-level Persian math word problems**, supporting both supervised training and systematic evaluation of reasoning models. By expanding mathematical reasoning resources beyond English, PMWP contributes to the development of multilingual AI systems with stronger and more reliable reasoning capabilities.
+To address this gap, we introduce PMWP, the first dataset of 15K elementary-level Persian math word problems that supports both supervised training and evaluation of reasoning models. By expanding mathematical reasoning resources beyond English, PMWP contributes to the development of multilingual AI systems with stronger reasoning capabilities. 
 
 ---
 
