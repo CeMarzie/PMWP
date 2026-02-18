@@ -6,7 +6,6 @@
 [![Workshop](https://img.shields.io/badge/Workshop-SilkRoadNLP%20%40%20EACL%202026-blue)](https://www.silkroadnlp.org/)
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](LINK_TO_PDF)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](LINK_TO_HF)
-[![License](https://img.shields.io/badge/License-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
 
 </div>
 
